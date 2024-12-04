@@ -1,2 +1,12 @@
-# pull-request-demo
-# Project-1
+# Personal Blog
+
+
+## User Story
+
+```md
+AS A marketing student,
+I WANT a personal blog
+SO THAT I can showcase my thoughts and experiences.
+```
+
+
